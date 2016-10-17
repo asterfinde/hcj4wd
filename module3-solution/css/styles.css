@@ -1,0 +1,12 @@
+li {
+	background-color: #eee;
+	border: 1px solid #ddd;
+}
+
+section {
+	padding: 10px 16px 20px 16px;
+    background-color: #eee;
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid #ddd;
+    border: 1px solid rgba(86,61,124,.2);
+}
